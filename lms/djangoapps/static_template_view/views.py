@@ -47,6 +47,13 @@ def render(request, template):
 
     url(r'^jobs$', 'static_template_view.views.render', {'template': 'jobs.html'}, name="jobs")
     """
+    redirect_urls = {
+        'honor.html': 'https://www.edx.org/edx-terms-service',
+        'privacy.html': 'https://www.edx.org/edx-privacy-policy'
+    }
+    marketing_url = redirect_urls.get(template)
+    if marketing_url:
+        return redirect(marketing_url)
 
     # Guess content type from file extension
     content_type, __ = mimetypes.guess_type(template)
