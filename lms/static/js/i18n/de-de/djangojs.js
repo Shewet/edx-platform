@@ -41,6 +41,7 @@
     "Choose a time": "Uhrzeit", 
     "Choose all": "Alle ausw\u00e4hlen", 
     "Chosen %s": "Ausgew\u00e4hlte %s", 
+    "You have been logged out of your edX account. Click Okay to log in again now. Click Cancel to stay on this page (you must log in again to save your work)": "Sie wurden aus Ihrem close2real-Konto ausgeloggt. Klicken Sie bitte auf 'OK', um sich erneut anzumelden. Klicken Sie auf 'Abbrechen', um weiterhin auf der Seite zu bleiben.  Achtung: Um mit dem Kurs fortzufahren und Ihre bisherigen Ergebnisse zu speichern, müssen Sie sich hier erneut anmelden",
     "Click to choose all %s at once.": "Klicken, um alle %s auf einmal auszuw\u00e4hlen.", 
     "Click to remove all chosen %s at once.": "Klicken, um alle ausgew\u00e4hlten %s auf einmal zu entfernen.", 
     "Could not retrieve download url.": "Die Download URL konnte nicht aufgefunden werden.", 
