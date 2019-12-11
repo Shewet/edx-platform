@@ -263,6 +263,7 @@
     "All teams": "Alle Teams", 
     "All topics": "Alle Themen", 
     "All units": "Alle Abschnitte", 
+    "You have been logged out of your edX account. Click Okay to log in again now. Click Cancel to stay on this page (you must log in again to save your work)": "Sie wurden aus Ihrem close2real-Konto ausgeloggt. Klicken Sie bitte auf 'OK', um sich erneut anzumelden. Klicken Sie auf 'Abbrechen', um weiterhin auf der Seite zu bleiben.  Achtung: Um mit dem Kurs fortzufahren und Ihre bisherigen Ergebnisse zu speichern, müssen Sie sich hier erneut anmelden",
     "All users on the Exception list": "Alle Teilnehmer der Ausnahmeliste", 
     "All users on the Exception list who do not yet have a certificate": "Alle Teilnehmer der Ausnahmeliste, welche bisher noch kein Zertifikat erhalten haben.", 
     "Allow students to generate certificates for this course?": "D\u00fcrfen Teilnehmer sich selbst Zertifikate f\u00fcr diesen Kurs ausstellen? ", 
